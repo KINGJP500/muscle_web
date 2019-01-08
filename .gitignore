@@ -29,3 +29,4 @@
 # i don't eant to show my secrets files
 /config/secrets.yml
 /config/database.yml
+/config/credentials.yml.enc
